@@ -5,7 +5,7 @@ import sys
 def main():
     app = QApplication([])
     window = Controller()
-    window.setWindowTitle('Test 10')
+    window.setWindowTitle('Remote')
     window.show()
     app.exec_()
 
